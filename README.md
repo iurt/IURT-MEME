@@ -1,6 +1,4 @@
-<div align=center>
-    <img width="255" height="255" src="static/favicon.png"/>
-</div>
+
 
 <center><h1> IURT 梗图收集 </h1></center>
 
